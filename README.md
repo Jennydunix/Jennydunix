@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jennifer.o.odunze@gmail.com**
 
-- ⚡ Fun fact **I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022**
+- ⚡ Fun fact **I'm currently running my diploma programme with Altschool Africa on Software Engineering (Class of 2022)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
