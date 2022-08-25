@@ -19,7 +19,7 @@
 
 - 👨‍💻 Here's a link to my Portfolio [https://odunzejennifer.netlify.app/](https://odunzejennifer.netlify.app/)
 
-- 🎬 Here's the link to my Instagram page where i create contents [https://www.instagram.com/thejennyluchi/](https://www.instagram.com/thejennyluchi/)
+- 🎬 Here's the link to my Instagram page where i create tech-related contents [https://www.instagram.com/thejennyluchi/](https://www.instagram.com/thejennyluchi/)
 
 - 📫 How to reach me **jennifer.o.odunze@gmail.com**
 
