@@ -15,9 +15,9 @@
 
 - 👯 Pronouns **She/her**
 
-- 🌱 I’m currently learning **Javascript, React.js and Python**
+- 🌱 I’m currently learning **Javascript and React.js**
 
-- 🔭 I’m currently working on **A React Portfolio**
+- 🔭 I’m currently working on **my React Portfolio**
 
 - 🤝 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
 
