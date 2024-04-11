@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Javascript and React.js**
 
-- 🔭 I’m currently working on **my React Portfolio**
+- 🔭 I’m currently working building **a Mern Blog**
 
 - 🤝 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
 
